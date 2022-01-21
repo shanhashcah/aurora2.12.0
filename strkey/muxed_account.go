@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 
-	xdr "github.com/hcnet/go-xdr/xdr3"
+	xdr "github.com/stellar/go-xdr/xdr3"
 	"github.com/hcnet/go/support/errors"
 )
 
