@@ -9,7 +9,7 @@ import (
 	xdr3 "github.com/stellar/go-xdr/xdr3"
 
 	"github.com/hcnet/go/support/log"
-	"github.com/stellar/go/xdr"
+	"github.com/hcnet/go/xdr"
 )
 
 const (
